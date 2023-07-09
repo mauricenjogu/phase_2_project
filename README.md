@@ -86,6 +86,7 @@ decrease of 122300,121300,67130 in prices is observed for houses of grade 4-low,
 ## Recommendations
 
 1 . All the factors considered in this model should be given much considerations when dealing with house as they have proved to be statistically significant.
+
 2 . House Grade seems to have the largest impact among catergorical data and should be given priority compared to the other categorical data.
 
 3 . The model should be used in less variation senstive cases such as price estimation but not price setting as the r_squared is not that high.
